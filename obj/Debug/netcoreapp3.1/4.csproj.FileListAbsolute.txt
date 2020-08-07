@@ -1,0 +1,13 @@
+E:\Coding\CSharp Basic\exercise\exercise 2\No\4\bin\Debug\netcoreapp3.1\4.exe
+E:\Coding\CSharp Basic\exercise\exercise 2\No\4\bin\Debug\netcoreapp3.1\4.deps.json
+E:\Coding\CSharp Basic\exercise\exercise 2\No\4\bin\Debug\netcoreapp3.1\4.runtimeconfig.json
+E:\Coding\CSharp Basic\exercise\exercise 2\No\4\bin\Debug\netcoreapp3.1\4.runtimeconfig.dev.json
+E:\Coding\CSharp Basic\exercise\exercise 2\No\4\bin\Debug\netcoreapp3.1\4.dll
+E:\Coding\CSharp Basic\exercise\exercise 2\No\4\bin\Debug\netcoreapp3.1\4.pdb
+E:\Coding\CSharp Basic\exercise\exercise 2\No\4\obj\Debug\netcoreapp3.1\4.csprojAssemblyReference.cache
+E:\Coding\CSharp Basic\exercise\exercise 2\No\4\obj\Debug\netcoreapp3.1\4.AssemblyInfoInputs.cache
+E:\Coding\CSharp Basic\exercise\exercise 2\No\4\obj\Debug\netcoreapp3.1\4.AssemblyInfo.cs
+E:\Coding\CSharp Basic\exercise\exercise 2\No\4\obj\Debug\netcoreapp3.1\4.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp Basic\exercise\exercise 2\No\4\obj\Debug\netcoreapp3.1\4.dll
+E:\Coding\CSharp Basic\exercise\exercise 2\No\4\obj\Debug\netcoreapp3.1\4.pdb
+E:\Coding\CSharp Basic\exercise\exercise 2\No\4\obj\Debug\netcoreapp3.1\4.genruntimeconfig.cache
